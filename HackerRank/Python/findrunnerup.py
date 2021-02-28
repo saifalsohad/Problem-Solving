@@ -7,4 +7,4 @@ if __name__ == '__main__':
 
     x=len(arr)
     print(arr[x-2])
-    print(arr)
+   
